@@ -1,6 +1,5 @@
 /* A basic STARTER script from the Cave Pearl Project 
 that sleeps the datalogger and wakes from DS3231 RTC alarms*/
-/* An experimental version of file in DS desertPEarl github.
 
 #include <Wire.h>
 #include <SPI.h>
